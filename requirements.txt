@@ -1,0 +1,10 @@
+Flask
+jsonify
+numpy
+requests
+scikit-learn
+scipy
+sklearn
+seaborn
+matplotlib
+gunicorn
